@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAI,AAAA,gBAAgB,CAAI;EAChB,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "../scss/media/media767.scss"
+    ],
+    "names": [],
+    "file": "media767.css"
+}

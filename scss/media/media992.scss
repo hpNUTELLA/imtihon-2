@@ -1,0 +1,324 @@
+@media only screen and (max-width: 992px) {
+    .container  {
+        max-width: 990px;
+        margin: 0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }    
+    .site-menu  {
+        width: 100%;
+        justify-content: start;
+    }
+    .right-main-menu    {
+        margin-left: 100px;
+    }
+    .menu-end-text  {
+        margin-left: 50px;
+        padding-top: 5px;
+    }
+    .site-navigation    {
+        width: 100%;
+    }
+    .tittle-text h1     {
+        font-size: 45px;  
+    }
+    .tittle-icon   img {        
+        margin-top: -100px;
+        transform: translateX(-100px);
+    }
+    .site-bio  p   {
+        width: 100%;
+    }
+    .site-hero-main-left    {
+        width: 70%;
+    }
+    .site-hero-knopka button   {
+        width: 200px;
+        height: 50px;
+    }
+    .rasm-part-block1-q1    img     {
+        width: 200px;
+    }
+    
+    .site-hero-right-block-rasm img     {
+        margin-left: 0px;
+        width: 300px;
+    }
+    .wrapper-site-hero  {
+        margin: 0 auto;
+    }
+    .left-block1-q1 {
+        width: 300px;
+        height: 710px;
+    }
+    .rasm-part-right-q1 {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .rasm-part-right-q1 img {
+        margin-left: 0px;
+        width: 200px;
+    }
+    .rasm2-part-right-q1    {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .rasm2-part-right-q1 img    {
+        width: 250px;
+        margin-top: 0px;
+    }
+    .right-block1-q1    {
+        width: 250px;
+        height: 470px;
+    }
+    .right-main-blocks-q1   {
+        margin-left: 0px;
+        width: 60%;
+    }
+    .rasm-block1-for-right-block1-q1    {
+        margin-top: 40px;
+    }
+    .text-part-block1-q1    p   {
+        font-size: 15px;
+    }
+    .rasm-block1-for-right-block1-q1 img    {
+        width: 200px;
+    }
+    .left-blocks-for-block2-q1  {
+        width: 70%;
+    }
+    .link-block-for-right-block1    {
+        margin-top: 20px;
+    }
+    .right-block2-q1    {
+        width: 520px;
+        height: 230px;
+    }
+    .wrapper-block-about-skills-q1  {
+        width: 992px;
+        margin: 0 auto;
+    }
+    .text-part-right-q1 p   {
+        font-size: 15px;
+    }
+    .link-block-for-right-block1    {
+        margin-top: 5px;
+    }
+    .main-block1-q2 {
+        width: 250px;
+    }
+    .pricing    {
+        margin-top: 200px;
+    }
+    .left-main-blocks-q2    {
+        width: 65%;
+    }
+    .right-main-blocks-q2 img   {
+        width: 350px;
+        margin-left: 0px;
+    }
+    .result-box-q2  {
+        margin-left: 0px;
+    }
+    .rasm-block-q3  img     {
+        width: 300px;
+    }
+    .rasm-block1-q2 img {
+        width: 200px;
+    }
+    .rasm-block2-q2 img     {
+        width: 235px;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 865px) {
+    .container  {
+        max-width: 830px;
+        margin: 0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .site-hero-right-block-rasm img     {
+        margin-left: 50px;
+    }
+    .tittle-icon   img {        
+        transform: translateX(0px);
+    }
+    .site-bio {
+        width: 100%;
+    }
+    .site-bio p {
+        font-size: 18px;
+    }
+    .about-skills-q1 h3     {
+        text-align: center;
+    }
+    .site-hero-main-left    {
+        width: 100%;
+    }
+    .pricing    {
+        margin-top: 250px;
+    }
+    .left-main-blocks-q2    {
+        width: 65%;
+    }
+    .right-main-blocks-q2 img   {
+        width: 350px;
+        margin-left: 0px;
+    }
+    .result-box-q2  {
+        margin-left: 0px;
+    }
+    .rasm-block-q3  img     {
+        width: 300px;
+    }
+    .main-block1-q2 {
+        margin-left: 20px;
+    }
+    .result-block3, .result-block2 {
+        margin-left: 10px;
+    }
+    .right-main-block-q3    {
+        margin-left: 20px;
+    }
+    
+}
+@media only screen and (max-width: 900px) {
+    .container  {
+        max-width: 890px;
+        margin: 0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .tittle-icon   img {        
+        transform: translateX(0px);
+    }
+    .right-block1-q1    {
+        width: 240px;
+    }
+    .links  {
+        margin-top: 10px;
+        width: 150px;
+        height: 50px;
+        padding-top: 10px;
+    }
+    .input-button   {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .email  {
+        height: 50px;
+    }
+    
+}
+
+
+@media only screen and (max-width:767px){
+    .container  {
+        max-width: 757px;
+        margin: 0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .site-hero-right-block-rasm img     {
+        margin-left: 50px;
+    }
+    .right-main-menu{
+        display: none;
+    }   
+    .lab{
+        margin-top: -35px;
+        margin-left: 700px;
+        display: block;
+    }
+    .tittle-icon   img {        
+        transform: translateX(0px);
+    }
+    .site-bio {
+        width: 100%;
+    }
+    .site-bio p {
+        font-size: 18px;
+    }
+    .about-skills-q1 h3     {
+        text-align: center;
+    }
+    .site-hero-main-left    {
+        width: 100%;
+    }
+    .pricing    {
+        margin-top: 250px;
+    }
+    .left-main-blocks-q2    {
+        width: 65%;
+    }
+    .right-main-blocks-q2 img   {
+        width: 350px;
+        margin-left: 0px;
+    }
+    .result-box-q2  {
+        margin-left: 0px;
+    }
+    .rasm-block-q3  img     {
+        width: 300px;
+    }
+    .main-block1-q2 {
+        margin-left: 20px;
+    }
+    .result-block3, .result-block2 {
+        margin-left: 10px;
+    }
+    .right-main-block-q3    {
+        margin-left: 20px;
+    }
+
+    .left-block1-q1 {
+        width: 250px;
+        height: 840px;
+    }
+    .right-block1-q1    {
+        width: 200px;
+        height: 600px;
+    }
+    .text-box-for-left-block1-q1    {
+        margin-top: 0px;
+    }
+    .link-block-for-right-block1    {
+        margin-top: 5px;
+    }
+    .main-block1-q2 {
+        width: 200px;
+    }
+    .price-block    {
+        width: 200px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .price-first{
+        font-size: 18px;
+    }
+    .text-box-q3    {
+        width: 300px;
+    }
+    .email-withsubcribe {
+        display: block;
+    }
+    .input-button   {
+        width: 250px;
+        margin-left: 0px;
+        height: 55px;
+        margin-top: 10px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+

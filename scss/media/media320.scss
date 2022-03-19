@@ -1,0 +1,190 @@
+@media only screen and (max-width: 320px) {
+    .container  {
+        max-width: 310px;
+        margin:  0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .site-hero-right-block-rasm img     {
+        width: 400px;
+        margin-left: 30%;
+    }
+    .tittle-text h1 {
+        font-size: 25px;
+    }
+    .site-bio p {
+        font-size: 13px;
+    }
+    .site-menu  {
+        margin-left: 0px;
+    }
+    .site-hero-main-left    {
+        text-align: start;
+    }
+    .wrapper-block-about-skills-q1  {
+        display: block;
+        text-align: start;
+        margin-left: 50px;
+    }
+    .about-skills-q1    {
+        margin: 150px auto;
+        text-align: center;
+    }
+    .site-hero-main-left    {
+        margin-left: 30%;
+    }
+    .left-block1-q1{
+        width: 300px;
+        height: 470px;
+    }
+    .right-block1-q1    {
+        min-width: 300px;
+        height: 470px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 20px;
+    } 
+    .right-block2-q1    {
+        min-width: 300px;
+        height: 470px;
+        margin-left: 200px;
+        margin-top: 20px;
+        flex-direction: column-reverse;
+    }
+    .rasm-part-block1-q1 img    {
+        text-align: center;
+    }
+    .rasm-part-right-q1 img     {
+        text-align: center;
+    }
+    .rasm-block1-for-right-block1-q1  img  {
+        width: 250px;
+        transform: translateY(-30px);
+        margin-left: 20px;
+        // text-align: center;
+    }
+    .text-box-for-left-block1-q1 h3   {
+        text-align: start;
+    }
+    .text-box-for-left-block1-q1    {
+        transform: translateY(50px);
+    }
+    .link-block-for-right-block1 {
+        transform: translateY(50px);
+    }
+    .tittle-price {
+        text-align: center;
+        transform: translateX(0px);
+    }
+    .links    {
+        margin-top: 30px;
+    }
+    
+    .result-section-q2  {
+        margin-bottom: 100px;
+        .wrapper-result-section{         
+            flex-direction: column-reverse;
+            margin: 0 auto;
+            transform: translateX(-50px);
+        }
+        .left-main-blocks-q2    {
+            text-align: center;
+            transform: translateX(-110px);
+        }
+        .text-box-for-block {
+            min-width: 400px;
+            margin-top: -100px;
+        }
+        .text-box-for-block p {
+            font-size: 15px;
+        }
+        .text-box-for-block h3  {
+            transform: translateY(-300px);
+            margin-right: 100px;
+        }
+        .rasm-block-for-right-q2 img    {
+            width: 300px;
+        }
+        .result-box-q2  {
+            flex-direction: column;
+            margin-left: 130px;
+        }
+        .result-block2, .result-block1, .result-block3  {
+            text-align: center;
+            margin-left: 0px;
+        }
+        .right-main-blocks-q2   {
+            margin-left: 50px;
+        }
+        .result-block2  {
+            transform: translateX(-2px);
+        }
+        .result-block3  {
+            transform: translateX(-2px);
+        }
+    }
+    
+    .pricing    {
+        margin-top: 500px;
+        .wrapper-block-q2   {
+            flex-direction: column;
+            align-items: center;
+            margin-left: 100px;
+            text-align: center;
+        }
+        .rasm-block2-q2     {
+            margin-left: 0px;
+        }
+        .tittle-price   {
+            transform: translateX(-10px);
+        }
+        .rasm-block1-q2 img     {
+            width: 300px;
+        }
+        .rasm-block2-q2 img     {
+            width: 300px;
+            margin-top: 50px;
+        }
+        .text-box-block1-q2 h4  {
+            font-size: 20px;  
+        }
+        .text-box-block1-q2  p {
+            font-size: 15px;
+        }
+    }
+
+
+    .wrapper-about-contact-q3   {
+        display: block;
+        margin-left: 60px;
+        .email-withsubcribe {
+            display: block;
+        }
+        .input-button {
+            margin-top: 10px;
+            margin-left: 0px;
+            width: 250px;
+            border-radius: 7px;
+            height: 55px;
+        }
+        .text-box-q3    {
+            width: 310px;
+        }
+        .text-box-q3 h4     {
+            transform: translateY(-330px);
+            font-size: 30px;
+            padding-left: 100px;
+        }  
+        .email  {
+            width: 250px;
+        }
+    }
+    .site-footer   {
+        margin-top: 150px;
+        width: 100%;
+    }
+    .wrapper-site-footer    {
+        display: block;
+        text-align: center;
+    }
+}
